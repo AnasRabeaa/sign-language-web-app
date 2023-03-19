@@ -201,7 +201,7 @@ $total_bookmarked = $select_bookmark->rowCount();
       <h3 class="subtitle">Take learning American Sign Language into your own hands <br/> with our online ASL courses!</h3>
     </div>
     <div class="col-xs-12 explore">
-      <a href="https://anasrabeaa.github.io/Sign-Language-Translator/templates/Training.html"><button type="button" class="btn explorebtn">AI MODEL</button></a>
+      <a href="./test.php"><button type="button" class="btn explorebtn">AI MODEL</button></a>
     </div>
   </div>
   
