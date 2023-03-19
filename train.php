@@ -74,7 +74,7 @@ if(isset($_COOKIE['user_id'])){
         <div class="grey-bgs ml-5" style="padding: 5px;">
             <div class="center">
                 <br>
-                <h3 style="color:#fff;font-size: 35px;"> Most Commonly Used Phrases <i style="color:#A020F0;font-size: 35px;" class="fab fa-galactic-senate"></i></h3>
+                <h3 style="color:#A020F0;font-size: 35px;"> Most Commonly Used Phrases <i style="color:#A020F0;font-size: 35px;" class="fab fa-galactic-senate"></i></h3>
                 <br>
             </div>
             <div class="outer-column">
